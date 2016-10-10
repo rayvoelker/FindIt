@@ -9,6 +9,8 @@ var rect = document.createElementNS("http://www.w3.org/2000/svg", "rect");
 rect.setAttribute('width','60');
 rect.setAttribute('height','4.8em');
 rect.setAttribute('fill','#eee');
+rect.setAttribute('stroke',"#BE1E2D");
+rect.setAttribute('stroke-width','3');
 
 //<text font-family="monospace">
 var text = document.createElementNS("http://www.w3.org/2000/svg", "text");
