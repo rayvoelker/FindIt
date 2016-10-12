@@ -1,6 +1,10 @@
-<svg width="60" height="4.8em" x="0" y="885.8" xmlns="http://www.w3.org/2000/svg">
-<rect width="60" height="4.8em" stroke="firebrick" stroke-width="3" stroke-linecap="butt" fill="#eee"></rect>
+<svg width="90" height="4.8em" x="0" y="885.8" xmlns="http://www.w3.org/2000/svg">
+<rect width="60" height="100%" stroke="firebrick" stroke-width="3"
+ fill="#eee"></rect>
 <text font-family="monospace">
 	<tspan x=".5em" dy="1.2em">QL696</tspan>
 </text>
+	<svg x="60" y="0" xmlns="http://www.w3.org/2000/svg">
+		<polygon points="0,0 0,30 15,15" fill="#FFDD00" stroke="firebrick" stroke-width="2"/>
+	</svg>
 </svg>
