@@ -12,7 +12,7 @@
            
            <script>
 			//get the info from the URL hash
-			var hash = JSON.parse(window.location.hash.substr(1));
+			var hash = JSON.parse(decodeURIComponent(window.location.hash.substr(1)));
 			var target_id = "rc4_" + hash.shelf;
 			var callnumber = hash.callnumber.split(" ");
 
