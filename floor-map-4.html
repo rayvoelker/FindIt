@@ -24,14 +24,14 @@
 			//create the main svg
 			var call_number_group = document.createElementNS("http://www.w3.org/2000/svg", "svg");
 			call_number_group.setAttribute('width','100');
-			call_number_group.setAttribute('height','6em');
+			call_number_group.setAttribute('height', (1.2*callnumber.length) + 'em');
 			call_number_group.setAttribute('x', target_x);
 			call_number_group.setAttribute('y', target_y);
 
 			//create the "book" rect
 			var rect = document.createElementNS("http://www.w3.org/2000/svg", "rect");
 			rect.setAttribute('width','60');
-			rect.setAttribute('height','6em');
+			rect.setAttribute('height', (1.2*callnumber.length) + 'em');
 			rect.setAttribute('fill','#eee');
 			rect.setAttribute('stroke',"#BE1E2D");
 			rect.setAttribute('stroke-width','3');
