@@ -1,0 +1,3 @@
+http://library2.udayton.edu/ray/FindIt/floor-map-4.html#{"location":"rc4","shelf":"19","callnumber":"PA6238 .B2 2016"}
+http://library2.udayton.edu/ray/FindIt/floor-map-4.html#%7B%22shelf%22%3A%2219%22%2C%22callnumber%22%3A%22PA6238%20.B2%202016%22%7D
+
